@@ -63,7 +63,7 @@ Build using the **MERN** Stack (MongoDB, Express, React, Node.js) and deeply int
    Create a `.env` file in the `/backend` folder:
    ```env
    PORT=5000
-   GEMINI_API_KEY=your_actual_gemini_api_key_here
+   GEMINI_API_KEY=AIzaSyBKq37KdzAWgmxwJKGup70-0ExwhCC6Ghc
    NODE_ENV=development
    ```
 
